@@ -1,4 +1,4 @@
-# -E-Commerce-website-Back-End
+# E-Commerce-website-Back-End
 E-commerce Back End based on ORM
 
 ## Description
@@ -12,7 +12,7 @@ I WANT a back end for my e-commerce website that uses the latest technologies
 SO THAT my company can compete with other e-commerce companies
 
 ## WalkThrough Video
-
+[Video link](https://drive.google.com/file/d/1pWmc4rUtit0Q1JM9_32b-QcfpIDmIY5q/view?usp=drive_link)
 
 ## Installation
 
@@ -26,7 +26,7 @@ SO THAT my company can compete with other e-commerce companies
  PgAdmin 4, PostgresSQL 15, Insomnia Core
 
  ## Preview
-
+<img src="./assets/Screenshot 2024-08-31 204330.png" width="720" heigth="480">
 
 
  ## License
